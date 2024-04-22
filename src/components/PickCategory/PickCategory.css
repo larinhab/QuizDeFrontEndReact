@@ -1,0 +1,27 @@
+#category {
+    text-align: center;
+    max-width: 500px;
+}
+
+#category h2,
+#category p {
+    margin-bottom: 1rem;
+}
+
+
+#category img {
+    margin: 2rem auto;
+    max-width: 400px;
+}
+
+#categoy button {
+    margin: 2rem;
+}
+
+.choices {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem;
+}
